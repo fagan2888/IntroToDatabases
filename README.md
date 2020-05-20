@@ -182,69 +182,69 @@ This section contains links to lecture material:
 
 - Lectures 1 and 2:
     - Part 1: Introduction
-        - [HTML](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.html)
-        - [Jupyter Notebook](Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.ipynb)
+        - [HTML](old/Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.html)
+        - [Jupyter Notebook](old/Lectures/Lecture_1/w4111-L1-s2020-Introduction-v3.ipynb)
     - Part 2: Relational Model, SQL, Data Modeling
-        - [HTML](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.html)
-        - [Jupyter Notebook](Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.ipynb)
+        - [HTML](old/Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.html)
+        - [Jupyter Notebook](old/Lectures/Lecture_2/w4111-L2-s2020-ModelRelational-V1.ipynb)
 
 - Lectures 3:
-    - [PDF](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pdf)
-    - [PowerPoint](Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pptx)
+    - [PDF](old/Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pdf)
+    - [PowerPoint](old/Lectures/Lecture_3_and_4/Lecture_3_ER_SQL_Relational_v2.pptx)
     
     
 - Lecture 4:
-    - [HTML](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.html)
-    - [Jupyter Notebook](Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.ipynb)
+    - [HTML](old/Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.html)
+    - [Jupyter Notebook](old/Lectures/Lecture_4/w4111-L4-s2020-ER_SQL_Relational_II-V1.ipynb)
     
 - Lecture 5:
-    - [PPT](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pptx)
-    - [PDF](Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pdf)
-    - [Jupyter Notebook](Lectures/Lecture_5/w4111-L5-s2020_REST_ER_SQL_Relational_III-V1.ipynb)
+    - [PPT](old/Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pptx)
+    - [PDF](old/Lectures/Lecture_5/Lecture_5_ER_SQL_Relational_GoT.pdf)
+    - [Jupyter Notebook](old/Lectures/Lecture_5/w4111-L5-s2020_REST_ER_SQL_Relational_III-V1.ipynb)
     
 - Lecture 6:
-    - [PPT](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pptx)
-    - [PDF](Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pdf)
-    - [Jupyter Notebook](Lectures/Lecture_6/w4111-L6-s2020_Algebra_ER_Advanced_SQL_Advanced.ipynb)
+    - [PPT](old/Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pptx)
+    - [PDF](old/Lectures/Lecture_6/Lecture_6_Relational_SQL_Pattern.pdf)
+    - [Jupyter Notebook](old/Lectures/Lecture_6/w4111-L6-s2020_Algebra_ER_Advanced_SQL_Advanced.ipynb)
     
 - Lecture 7:
-    - [PPT](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pptx)
-    - [PDF](Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pdf)
-    - [Jupyter Notebook](Lectures/Lecture_7/w4111-L7-Relational_ER_SQL_Final.ipynb)
+    - [PPT](old/Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pptx)
+    - [PDF](old/Lectures/Lecture_7/Lecture_7_Relational_ER_SQL_Final.pdf)
+    - [Jupyter Notebook](old/Lectures/Lecture_7/w4111-L7-Relational_ER_SQL_Final.ipynb)
     
 - Lecture 8:
-    - [PDF](Lectures/Lecture_8/Lecture_8.pdf)
-    - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
+    - [PDF](old/Lectures/Lecture_8/Lecture_8.pdf)
+    - [Jupyter Notebook](old/Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
     
 - Lecture 9:
-    - [PPT](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pptx)
-    - [PDF](Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pdf)
-    - [Jupyter Notebook](Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
+    - [PPT](old/Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pptx)
+    - [PDF](old/Lectures/Lecture_9/Module_II__DIsks_Indexes_v2.pdf)
+    - [Jupyter Notebook](old/Lectures/Lecture_8/w4111-L8-End_Module_I_Start_II.ipynb)
     
 - Lecture 10:
-    - [PPT](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pptx)
-    - [PDF](Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pdf)
+    - [PPT](old/Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pptx)
+    - [PDF](old/Lectures/Lecture_10/Module_II__Indexes_query_processing_v2.pdf)
     
     
 - Lecture 11:
     - Query Processing and Optimization:
-        - [Query Processing and Optimization](Lectures/Lecture_11/Module_II__query_processing_optimization.pptx)
-        - Reference material [Database System Concepts, Seventh Edition - Chapter 16](Lectures/Lecture_11/ch16-CHQDFERGUSO.pptx)
+        - [Query Processing and Optimization](old/Lectures/Lecture_11/Module_II__query_processing_optimization.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 16](old/Lectures/Lecture_11/ch16-CHQDFERGUSO.pptx)
     - Transactions and Recover:
-        - [Transactions and Recovery](Lectures/Lecture_11/Module_II_transactions_recovery_v2.pptx)
-        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](Lectures/Lecture_11/ch17.pptx)
+        - [Transactions and Recovery](old/Lectures/Lecture_11/Module_II_transactions_recovery_v2.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](old/Lectures/Lecture_11/ch17.pptx)
     
 - Lecture 12:
     - Covering some additional topics in transactions/concurrency control from "Database System Concepts, Seventh Edition."<br>
     __Note:__ Slides with green check marks are the ones we will cover.
-        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](Lectures/Lecture_12/ch17.pptx)
-        - Reference material [Database System Concepts, Seventh Edition - Chapter 18](Lectures/Lecture_12/ch18.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 17](old/Lectures/Lecture_12/ch17.pptx)
+        - Reference material [Database System Concepts, Seventh Edition - Chapter 18](old/Lectures/Lecture_12/ch18.pptx)
     - NoSQL Databases: Concepts, CAP Theorem, Graph Databases, Redis, DynamoDB
-        - [PPT](Lectures/Lecture_12/s2020_no_sql.pptx)
+        - [PPT](old/Lectures/Lecture_12/s2020_no_sql.pptx)
         
         
 - Lecture 13: Quick overview of normalization and Star Schema/decision support.
-    - [PPT](Lectures/Lecture_13/normalization_decision_support.ppt)
+    - [PPT](old/Lectures/Lecture_13/normalization_decision_support.ppt)
         
     
     
